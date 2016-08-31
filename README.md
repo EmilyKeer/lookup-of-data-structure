@@ -1,6 +1,6 @@
 # lookup-of-data-structure
 ## Data structure | Lookup
-### Keywords:`sequential search`    `binsearch`   `sequence list`   `keywords`
+### Keywords:`sequential search`       `binsearch`      `sequence list`      `keywords`
 
 
 Language: C </br>
